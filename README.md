@@ -10,7 +10,7 @@
 خوش بگذره
 
 
-## HacktoberFest Starter Project
+## HacktoberFest Starter Project -
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first Pull Request to a public repository before doing the real thing!
 
